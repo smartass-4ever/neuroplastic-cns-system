@@ -12,6 +12,7 @@ We are building a living, learning, **modular cognition system** with long-term 
 Most LLMs:
 
 Recompute from scratch every time
+
 Forget everything afterward
 Don’t form persistent inner structures
 Have no evolving internal state
