@@ -14,8 +14,11 @@ Most LLMs:
 Recompute from scratch every time
 
 Forget everything afterward
+
 Don’t form persistent inner structures
+
 Have no evolving internal state
+
 We believe a synthetic CNS, with layered plasticity and embodied structure, will scale better than stateless AGI.
 
 ## 🧠 What It Is
